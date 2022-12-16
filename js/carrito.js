@@ -124,7 +124,8 @@ function comprarCarrito() {
         confirmButtonText: 'Continuar',
         iconColor: '#43cb31;',
         iconHtml: '<i class="bi bi-cart-fill"></i>',
-        buttonColor: 'green'
+        confirmButtonColor: "var(--clr-main)",
+
       })
     
 }
