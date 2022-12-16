@@ -1,0 +1,14 @@
+[
+    {"id":"banana-01","titulo":"Banana Roja","imagen":"img/Banana Roja.jpg","categoria":{"nombre":"Bananas","id":"Bananas"},"precio":1000},
+    {"id":"banana-02","titulo":"Banana Verde","imagen":"img/Banana Verde.jpg","categoria":{"nombre":"Bananas","id":"Bananas"},"precio":2000},
+    {"id":"banana-03","titulo":"Banana Azul","imagen":"img/Banana Azul.jpg","categoria":{"nombre":"Bananas","id":"Bananas"},"precio":3000},
+    {"id":"banana-04","titulo":"Banana Amarilla","imagen":"img/Banana Amarilla.jpg","categoria":{"nombre":"Bananas","id":"Bananas"},"precio":4000},
+    {"id":"naranja-01","titulo":"Naranja Roja","imagen":"img/Naranja Roja.jpg","categoria":{"nombre":"Naranjas","id":"Naranjas"},"precio":1200},
+    {"id":"naranja-02","titulo":"Naranja Verde","imagen":"img/Naranja Verde.jpg","categoria":{"nombre":"Naranjas","id":"Naranjas"},"precio":2400},
+    {"id":"naranja-03","titulo":"Naranja Azul","imagen":"img/Naranja Azul.jpg","categoria":{"nombre":"Naranjas","id":"Naranjas"},"precio":3600},
+    {"id":"naranja-04","titulo":"Naranja Amarilla","imagen":"img/Naranja Amarilla.jpg","categoria":{"nombre":"Naranjas","id":"Naranjas"},"precio":4800},
+    {"id":"manzana-01","titulo":"Manzana Roja","imagen":"img/Manzana Roja.jpg","categoria":{"nombre":"Manzanas","id":"Manzanas"},"precio":1300},
+    {"id":"manzana-02","titulo":"Manzana Verde","imagen":"img/Manzana Verde.jpg","categoria":{"nombre":"Manzanas","id":"Manzanas"},"precio":2600},
+    {"id":"manzana-03","titulo":"Manzana Azul","imagen":"img/Manzana Azul.jpg","categoria":{"nombre":"Manzanas","id":"Manzanas"},"precio":3900},
+    {"id":"manzana-04","titulo":"Manzana Amarilla","imagen":"img/Manzana Amarilla.jpg","categoria":{"nombre":"Manzanas","id":"Manzanas"},"precio":5200}
+]
